@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 show --no-ff operation
 show stash when switch to other branch 
+fixed issue-001
